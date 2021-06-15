@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nipon Chanda
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on freelancing
+- 🌱 Engineer
 - 📫 How to reach me ... niponchanda@gmail.com+
 
 <!---
