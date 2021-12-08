@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nipon Chanda
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 Engineer
-- 📫 How to reach me ... niponchanda@gmail.com+
+- 👋 Hi, I’m Nipon Chanda 
+- 👀 
+- 🌱 Software Engineer
+- 📫 You can reach me on  niponchanda@gmail.com+
 
 <!---
 niponchanda/niponchanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
